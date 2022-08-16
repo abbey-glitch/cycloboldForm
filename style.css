@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+#wrapper{
+    position:relative;
+    width: 100vw;
+}
+form{
+    background-color: green;
+    mix-blend-mode: hard-light;
+    color: blue;
+    height: 100vh;
+}
+#bg-video{
+    position: fixed;
+    z-index: -1;
+    width:100%;
+}
